@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #7808f0;
+}
+.header{
+
+    padding:40px;
+}
+
+.container{
+    margin: 90px;
+    float: left;
+}
+#body1{
+    
+    float: left;
+    margin-left: 17%;
+    margin-right: 0px;
+    
+}
+#signuppage{
+    border:2px solid rgb(87, 77, 77);
+    float: right;
+    margin-right: 19%;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+.input1{
+ display: block;  
+ margin: 6px; 
+ width: 96%;
+ padding: 8px;
+ border-radius: 6px;
+}#fp{
+    text-decoration: none;
+}
+#pa{
+    text-align: center;
+}
+#fb{
+    color: blue;
+}
+#fblogo{
+    margin-bottom: 0px;
+    display: inline;
+    height: 100px;
+    position: relative;
+    left: 160px;
+    
+    
+}
+#fbdes{
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: white;
+    text-align: center;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+}
+#log{
+    color: white;
+    background-color: rgb(68, 65, 245);
+}
+#cn{
+    color: white;
+    background-color: rgb(29, 99, 29);
+}
